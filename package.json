@@ -1,0 +1,20 @@
+{
+  "name": "p5ts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "p5": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.4.3",
+    "prettier": "^2.8.4",
+    "sucrase": "^3.29.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  }
+}
