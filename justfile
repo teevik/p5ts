@@ -1,5 +1,5 @@
 run:
-  vite --open
+  npx vite --open
 
 build:
   # Strip types
